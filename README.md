@@ -13,12 +13,12 @@ This project redesigns **CSC 291: Introduction to Python Programming** at Hampto
 ### Brief Bio / CV
 Dr. Joseph Aneke is an Assistant Professor of Computer Science at Hampton University. His teaching and research interests include Python programming, artificial intelligence, cybersecurity, human-centered computing, data science, and the responsible integration of AI into computing education. He develops hands-on learning experiences that connect foundational programming concepts with real-world applications, research computing, and emerging technologies.
 
-**CV:** [Add link to your CV or professional webpage]
+**CV:** https://home.hamptonu.edu/science/faculty-staff/joseph-aneke/
 
 ### Faculty Headshot
 Upload your headshot to the repository's `/images` folder and update the filename below if needed.
 
-![Faculty Headshot](./images/headshot.png)
+![Faculty Headshot](./images/joe_headshot.png)
 
 ---
 
