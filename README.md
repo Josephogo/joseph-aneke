@@ -91,9 +91,9 @@ Students will be able to:
 
 ## Deliverables Checklist
 
-- [ ] **Original Syllabus:** [original_syllabus.pdf](./original_syllabus.pdf)
-- [ ] **Revised Syllabus:** [revised_syllabus.pdf](./revised_syllabus.pdf)
-- [ ] **Gateways 2026 Poster:** [poster_final.pdf](./poster_final.pdf)
+- [X] **Original Syllabus:** [original_syllabus.pdf](./original_syllabus.pdf)
+- [X] **Revised Syllabus:** [revised_syllabus.pdf](./revised_syllabus.pdf)
+- [X] **Gateways 2026 Poster:** [poster_final.pdf](./poster_final.pdf)
 - [ ] **SGX3 Blog Post Draft:** [blog_post.md](./blog_post.md)
 
 ---
