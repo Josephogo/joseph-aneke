@@ -16,9 +16,7 @@ Dr. Joseph Aneke is an Assistant Professor of Computer Science at Hampton Univer
 **CV:** https://home.hamptonu.edu/science/faculty-staff/joseph-aneke/
 
 ### Faculty Headshot
-Upload your headshot to the repository's `/images` folder and update the filename below if needed.
-
-![Faculty Headshot](./images/joe_headshot.png)
+![Faculty Headshot](./images/headshot.png)
 
 ---
 
