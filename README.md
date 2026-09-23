@@ -93,7 +93,7 @@ Students will be able to:
 
 - [X] **Original Syllabus:** [original_syllabus.pdf](./original_syllabus.pdf)
 - [X] **Revised Syllabus:** [revised_syllabus.pdf](./revised_syllabus.pdf)
-- [X] **Gateways 2026 Poster:** [poster_final.pdf](./poster_final.pdf)
+- [X] **Gateways 2026 Poster:** [poster_final.pdf](./Joseph_FH.pdf)
 - [ ] **SGX3 Blog Post Draft:** [blog_post.md](./blog_post.md)
 
 ---
